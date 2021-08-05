@@ -4,7 +4,7 @@ import requests
 repo_name = "Gmod_CarSound" #repository name
 repo_user = "ElTaistos"     #user name
 repo_branch = "main"        #branch name
-format_type = ".wav"        #format
+format_type = ".mp3"        #format
 
 link = "https://api.github.com/repos/{0}/{1}/git/trees/{2}?recursive=1".format(repo_user, repo_name, repo_branch)
 response = requests.get(link).json()
