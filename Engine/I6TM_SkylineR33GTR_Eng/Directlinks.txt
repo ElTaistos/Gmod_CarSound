@@ -1,0 +1,10 @@
+RPM	DIRECT_LINKS
+950	https://drive.google.com/uc?export=download&id=1MrXdgdriztksszoBWU_3V1slYbdy83fy
+1606	https://drive.google.com/uc?export=download&id=1PKg8qRrmL6C_U4nn8Sa8Wo_4Ny-KJ3f8
+2285	https://drive.google.com/uc?export=download&id=13OQqKa3aaAjga5s3NdCTd_TK7F00yawc
+3046	https://drive.google.com/uc?export=download&id=1Bam3n2UrOeBTYCQtqvfTUsg8F4XG6HN8
+3808	https://drive.google.com/uc?export=download&id=1dBBz49SXvbdLpD2jdm7MUt5a3PBRBuWL
+4511	https://drive.google.com/uc?export=download&id=1K4z6ES9LbvNC9MPzFqnodeEe--50Nm9D
+5214	https://drive.google.com/uc?export=download&id=1zuZcss9g5dkMQ5u5DhOCh5iQVAYjlvW9
+5961	https://drive.google.com/uc?export=download&id=1zVErVNOknkjVhF2Gf-GCQIPYLZyv60TY
+6584	https://drive.google.com/uc?export=download&id=1kZYZRiqmXk4XMQ0aN-4rgIkMI_T2zYHF
