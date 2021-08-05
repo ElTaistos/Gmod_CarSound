@@ -1,9 +1,8 @@
 RPM	DIRECT_LINKS
-1918	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_1918_ADPCM.mp3
-2358	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_2358_ADPCM.mp3
-2680	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_2680_ADPCM.mp3
-3530	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_3530_ADPCM.mp3
-4584	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_4584_ADPCM.mp3
-5463	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_4584_ADPCM.mp3
-6284	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_5463_ADPCM.mp3
-6700	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I6TM_Supra/mp3/Acc_6284_ADPCM.mp3
+1524	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_1524_ADPCM.mp3
+2109	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_2109_ADPCM.mp3
+3104	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_3104_ADPCM.mp3
+4213	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_4213_ADPCM.mp3
+5160	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_5160_ADPCM.mp3
+6036	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_6036_ADPCM.mp3
+6679	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_6679_ADPCM.mp3
