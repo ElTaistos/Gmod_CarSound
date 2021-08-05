@@ -1,0 +1,8 @@
+RPM	DIRECT_LINKS
+1524	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_1524_ADPCM.mp3
+2109	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_2109_ADPCM.mp3
+3104	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_3104_ADPCM.mp3
+4213	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_4213_ADPCM.mp3
+5160	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_5160_ADPCM.mp3
+6036	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_6036_ADPCM.mp3
+6679	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_6679_ADPCM.mp3
