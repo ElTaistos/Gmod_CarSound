@@ -1,0 +1,11 @@
+RPM	DIRECT_LINKS
+1500	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_1500_ADPCM.mp3
+2000	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_2000_ADPCM.mp3
+2680	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_2680_ADPCM.mp3
+3541	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_3541_ADPCM.mp3
+4674	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_4674_ADPCM.mp3
+5559	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_5559_ADPCM.mp3
+6218	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_6218_ADPCM.mp3
+6594	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_6594_ADPCM.mp3
+6877	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/I4TM_RallyEvo/mp3/Acc_6877_ADPCM.mp3
+	
