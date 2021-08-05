@@ -1,8 +1,9 @@
 RPM	DIRECT_LINKS
-1524	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_1524_ADPCM.mp3
-2109	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_2109_ADPCM.mp3
-3104	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_3104_ADPCM.mp3
-4213	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_4213_ADPCM.mp3
-5160	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_5160_ADPCM.mp3
-6036	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_6036_ADPCM.mp3
-6679	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V8TM_C63SAMG/mp3/Acc_6679_ADPCM.mp3
+1390	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_1390_ADPCM.mp3
+1705	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_1705_ADPCM.mp3
+2484	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_2484_ADPCM.mp3
+3861	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_3861_ADPCM.mp3
+5113	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_5113_ADPCM.mp3
+6156	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_6156_ADPCM.mp3
+6990	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_6990_ADPCM.mp3
+7681	https://raw.githubusercontent.com/ElTaistos/Gmod_CarSound/main/Engine/V10NM_Gallardo/mp3/Acc_7681_ADPCM.mp3
